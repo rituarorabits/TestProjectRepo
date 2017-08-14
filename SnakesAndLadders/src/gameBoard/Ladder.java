@@ -7,7 +7,7 @@ public class Ladder {
 	int colorElement;
 	
 	static int position;
-	
+	 
 	Ladder(int start, int end, int color) 
 	{
 		startPosition= start;
