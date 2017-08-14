@@ -12,5 +12,10 @@ public class Snake {
 		endPosition= end;
 		colorElement= color;
 	}
+	
+	static void newStaticMethod()
+	{
+		System.out.println("In static method");
+	}
 
 }
