@@ -6,6 +6,8 @@ public class Ladder {
 	int endPosition;
 	int colorElement;
 	
+	static int position;
+	
 	Ladder(int start, int end, int color) 
 	{
 		startPosition= start;
